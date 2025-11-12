@@ -8,7 +8,7 @@
 <body>
     <ul>
         <li>이름 입력</li>
-        <li> 배성호</li>
+        <li> 이태준</li>
     </ul>
 </body>
 </html>
